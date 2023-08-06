@@ -6,3 +6,4 @@ Lets learn git!
 ## Local development
 
 1.open this in your browser
+2.openai
